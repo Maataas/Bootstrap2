@@ -1,0 +1,20 @@
+.row > * {
+     border: 1px solid black;  
+    text-align: center;
+}
+
+.spacer {
+    margin-top: 100px;
+}
+
+.beb {
+    border: none;
+}
+
+.big {
+    height: 400px;
+}
+
+.small {
+    height: 200px;
+}
